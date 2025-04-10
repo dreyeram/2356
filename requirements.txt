@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+joblib
+scikit-learn
+xgboost
+lightgbm
+transformers[torch] # Use [torch] extra for PyTorch integration
+torch
+torchvision
+timm
+matplotlib
+seaborn
+plotly
+datasets # Required by transformers Trainer/metrics
+Pillow # For PIL (Image processing)
+# Add specific versions if needed, e.g., pandas==1.5.3
